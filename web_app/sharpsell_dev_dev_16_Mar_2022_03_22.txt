@@ -1,0 +1,6 @@
+ENV_BASE_URL = https://sharpsell-dev.enparadigmtech.com/smartsell-api/public/index.php/v2/
+ENV_LEADGEN_BASE_URL = 
+ENV_SMARTSKILL_BASE_URL = https://sharpsell-dev.enparadigmtech.com/launchpad-api/public/index.php/v1/
+COMPANY = dev
+ENVIRONMENT = dev
+ENV_COMPANY_ID = 
